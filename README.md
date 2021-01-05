@@ -1,2 +1,2 @@
 # mine-and-craft
-An attempt to emulate Minecraft.
+An attempt to emulate Minecraft by Mojang.
